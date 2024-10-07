@@ -1,16 +1,16 @@
-## Hi there 👋
+##seja bem vindo 💙
 
-<!--
-**sousonespanetone/sousonespanetone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome e Daniel Lisboa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou estudando no alura
+
+-tenho 15 anos 
+
+-tenho uma calopsta cinza 
+
+### vocẽ pode entrar em contato com migo 📫
+daniel.manfron@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/u_72T1TXSr4AAAAC/lol-mekro.gif)
